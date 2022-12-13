@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "username": "rajitha",
+            "password": "Rajitha@123",
+            "profile": {
+                "description": "my name is rajitha i am andhra pradesh",
+                "date of birth": "30/06/2003",
+                "gender": "female",
+                "hobbies": "reading books"
+            }
+        }
+    ]
+}

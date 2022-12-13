@@ -1,0 +1,54 @@
+{
+    "user": [
+        {
+            "username": "rajitha'",
+            "password": "Rajitha@123",
+            "profile": {
+                "description": "i am rajitha",
+                "date of birth": "15/06/2003",
+                "gender": "female",
+                "hobbies": "reading"
+            }
+        },
+        {
+            "username": "swati",
+            "password": "Swati@123",
+            "profile": {
+                "description": "wertyu",
+                "date of birth": "dfghjk",
+                "gender": "dfghjk",
+                "hobbies": "fghjk"
+            }
+        },
+        {
+            "username": "chitanya",
+            "password": "Saert@123",
+            "profile": {
+                "description": "i am lazygirl",
+                "date of birth": "6/9/2002",
+                "gender": "transgender",
+                "hobbies": "observe nature"
+            }
+        },
+        {
+            "username": "sujitha",
+            "password": "Sujitha@123",
+            "profile": {
+                "description": "i am smart",
+                "date of birth": "13/1/1998",
+                "gender": "female",
+                "hobbies": "reading books,singing,watching serials"
+            }
+        },
+        {
+            "username": "ashwini",
+            "password": "Ashwini@12",
+            "profile": {
+                "description": "i am ashwini i am vey good girl",
+                "date of birth": "02/02/2004",
+                "gender": "female",
+                "hobbies": "i love reading"
+            }
+        }
+    ]
+}
